@@ -9,7 +9,7 @@ build_requires:
   Test::Pod::Coverage: 1.04
   Test::WWW::Mechanize::Catalyst: 0
 distribution_type: module
-generated_by: 'Module::Install version 0.77'
+generated_by: 'Module::Install version 0.78'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -24,7 +24,9 @@ requires:
   Catalyst::View::TT: 0
   HTTP::Negotiate: 0
   MRO::Compat: 0
+  MooseX::Types::Moose: 0
+  MooseX::Types::Structured: 0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://dev.catalyst.perl.org/repos/Catalyst/Catalyst-View-TT-XHTML
-version: 1.100
+version: 1.101
