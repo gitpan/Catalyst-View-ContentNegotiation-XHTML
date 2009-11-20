@@ -30,4 +30,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://git.shadowcat.co.uk/catagits/Catalyst-View-ContentNegotiation-XHTML.git
-version: 1.102
+version: 1.103
